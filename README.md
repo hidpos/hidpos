@@ -19,16 +19,28 @@ I'm using C++ to develop software that can help people live their lives
 <h3>
   
 <p align="center">
-  SFML, QT, IMGUI, BOOST, STL, CMAKE, WINAPI, SQL
+  SFML, QT, IMGUI, BOOST, STL, CMAKE, WINAPI, SQL, WINFORMS
 </p>
 </h3>
 <br>
 
 <h2>
-  👨🏻‍💻My best C++ projects:
+  👨🏻‍💻My best projects:
 </h2>
+<h3>
+  C++
+</h3>
 <li>
   <a href="https://github.com/hidpos/Cya-the-messanger">CYA the client-server messanger</a>
+</li>
+
+<h3>
+  C#
+</h3>
+<li>
+  <a href="https://github.com/hidpos/EmailSendingBot">E-mail sending client bot - Windows Forms app</a>
+  <a href="https://github.com/hidpos/StepRhythm">StepRhythm - Unity3D game</a>
+  <a href="https://github.com/hidpos/SpaceGame">SpaceGame - Unity3D game</a>
 </li>
 
 <h2>🤔 I'm working on...
