@@ -39,7 +39,11 @@ I'm using C++ to develop software that can help people live their lives
 </h3>
 <li>
   <a href="https://github.com/hidpos/EmailSendingBot">E-mail sending client bot - Windows Forms app</a>
+</li>
+<li>
   <a href="https://github.com/hidpos/StepRhythm">StepRhythm - Unity3D game</a>
+</li>
+<li>
   <a href="https://github.com/hidpos/SpaceGame">SpaceGame - Unity3D game</a>
 </li>
 
