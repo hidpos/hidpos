@@ -51,6 +51,9 @@ I'm using C++ to develop software that can help people live their lives
 </h2>
 <br>
 <li>
+  <a href="https://github.com/hidpos/MTone">MTone the music player - SFML app</a>
+</li>
+<li>
   impoving my portfolio
 </li>
 <li>
