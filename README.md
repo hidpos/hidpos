@@ -28,7 +28,7 @@ I'm using C++ to develop software that can help people live their lives
   👨🏻‍💻My best C++ projects:
 </h2>
 <li>
-  https://github.com/hidpos/Cya-the-messanger
+  <a href="https://github.com/hidpos/Cya-the-messanger">CYA the client-server messanger</a>
 </li>
 
 <h2>🤔 I'm working on...
