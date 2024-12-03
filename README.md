@@ -1,8 +1,8 @@
 ## Hi, I'm Ivan! 
 I'm using C++ to develop software that can help people live their lives
-<br>
+<br><br>
 I'm working with:
-<img src="[img_girl.jpg](https://github.com/user-attachments/assets/7f2e084c-149e-4512-8191-ef1ad4526364)" width="20" height="20">
+<img src="https://github.com/user-attachments/assets/7f2e084c-149e-4512-8191-ef1ad4526364" width="20" height="20">
 <!--
 **hidpos/hidpos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
