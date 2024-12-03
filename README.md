@@ -31,7 +31,7 @@ I'm using C++ to develop software that can help people live their lives
   C++
 </h3>
 <li>
-  <a href="https://github.com/hidpos/Cya-the-messanger">CYA the client-server messanger</a>
+  <a href="https://github.com/hidpos/Cya-the-messanger">CYA the client-server messanger - QT app</a>
 </li>
 
 <h3>
