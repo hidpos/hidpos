@@ -33,6 +33,10 @@ I'm using C++ to develop software that can help people live their lives
 <li>
   <a href="https://github.com/hidpos/Cya-the-messanger">CYA the client-server messanger - QT app</a>
 </li>
+<br>
+<li>
+  <a href="https://github.com/hidpos/MTone">MTone the music player - SFML app</a>
+</li>
 
 <h3>
   C#
@@ -49,10 +53,6 @@ I'm using C++ to develop software that can help people live their lives
 
 <h2>🤔 I'm working on...
 </h2>
-<br>
-<li>
-  <a href="https://github.com/hidpos/MTone">MTone the music player - SFML app</a>
-</li>
 <li>
   impoving my portfolio
 </li>
