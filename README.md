@@ -53,6 +53,9 @@ I'm using C++ to develop software that can help people live their lives
 <h2>🤔 I'm working on...
 </h2>
 <li>
+  <a href="https://github.com/hidpos/PlatoGame">PlatoGame - platformer using C++ and WinAPI</a>
+</li>
+<li>
   impoving my portfolio
 </li>
 <li>
