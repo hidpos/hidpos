@@ -18,7 +18,7 @@
 <h3>
   
 <p align="center">
-  1C, SFML, QT, IMGUI, BOOST, STL, CMAKE, WINAPI, SQL, WINFORMS
+  1C, SFML, QT, IMGUI, BOOST, STL, CMAKE, WINAPI, SQL, WINFORMS, HTML, CSS
 </p>
 </h3>
 <br>
